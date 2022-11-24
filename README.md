@@ -9,7 +9,29 @@ Titus Winters, Software Engineering at Google
 
 Através do texto se nota a necessidade do engenheiro de software conhecer diversos tipos de ferramentas que se encontram a sua disposição. Preocupando-se com tempo, tanto para o desenvolvimento do projeto quanto para a efetividade do mesmo a longo prazo, é necessário se atentar aos seus aspectos essenciais como usabilidade, necessidade de manutenção e alteração.
 
-<hr>
+<hr><br>
 
 # Trade-off
 
+O trade off está relacionado a tomada de decisões. Quando existem dois recursos semelhantes para uma determinada tarefa, mas apenas um deles é escolhido para ser utilizado.
+
+<hr><br>
+
+
+# Ciclo de Vida do Desenvolvimento de Software
+
+### Situação:
+Uma bibliotecaria deseja fazer o cadastro de clientes que alugam os livros da biblioteca, bem como catalogar os livros em um sistema para poder separá-los em categorias e saber quais livros foram alugados e quais estão disponíveis.
+
+#### Requisitos funcionais:
+• Cadastrar clientes: Cadastrar nome, número de contato, livros alugados e prazo de devolução.<br>• Catalogar livros: Separar por nome, gênero e informar se o livro está disponível ou não.
+
+### Requisitos não funcionais:
+• Fácil acesso por parte do administrador. <br>
+• Clareza <br>
+• Confiabilidade
+<hr><br>
+
+# Diagrama de Casos de Uso
+
+<img src="asd.jpg">
