@@ -34,4 +34,4 @@ Uma bibliotecaria deseja fazer o cadastro de clientes que alugam os livros da bi
 
 # Diagrama de Casos de Uso
 
-<img src="asd.jpg">
+<img src="imagens/casosdeuso.jpg">
