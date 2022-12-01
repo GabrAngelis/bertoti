@@ -38,4 +38,30 @@ Uma bibliotecaria deseja fazer o cadastro de clientes que alugam os livros da bi
 
 ### Diagrama de Classes UML:
 
-<img src="diagramadeclassesuml.jpg">
+<img src="imagens/classesUML.jpg">
+
+
+# Prints do código
+
+## Classe cliente:
+<br>
+<img src="imagens/cliente1.PNG"> 
+<br>
+<img src="imagens/cliente2.PNG">
+
+## Classe livro:
+<br>
+<img src="imagens/livro1.PNG"> 
+<br>
+<img src="imagens/livro2.PNG">
+
+## Classe sistema:
+<br>
+<img src="imagens/sistema1.PNG"> 
+<br>
+<img src="imagens/sistema2.PNG">
+
+## Classe teste:
+<br>
+<img src="imagens/teste.PNG"> 
+
