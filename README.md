@@ -35,3 +35,7 @@ Uma bibliotecaria deseja fazer o cadastro de clientes que alugam os livros da bi
 # Diagrama de Casos de Uso
 
 <img src="imagens/casosdeuso.jpg">
+
+### Diagrama de Classes UML:
+
+<img src="diagramadeclassesuml.jpg">
